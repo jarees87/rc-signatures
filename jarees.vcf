@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Rees;John Aaron;;;Jr.
+N:Rees;John;Aaron;;Jr., CCIM
 FN:John Aaron Rees, Jr., CCIM
 ORG:Rees Commercial
 TITLE:Vice President | Executive Broker
-TEL;TYPE=CELL:501.519.7337
-TEL;TYPE=WORK:501.223.9298 x3
+TEL;TYPE=CELL,VOICE:+15015197337
+TEL;TYPE=WORK,VOICE:+15012239298;ext=3
 EMAIL;TYPE=WORK:jarees@reescommercial.com
 ADR;TYPE=WORK:;;11719 Hinson Road, Suite 130;Little Rock;Arkansas;72212;
-URL:https://www.reescommercial.com
+URL:https://ReesCommercial.com
 END:VCARD
